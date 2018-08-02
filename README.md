@@ -7,9 +7,8 @@ user Permission in AndroidManifest
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-
 build.gradle (Module App) :- 
   under defaultConfig 
-    useLibrary "org.apache.http.legacy"
+ Add Line :     useLibrary "org.apache.http.legacy"
 
 
