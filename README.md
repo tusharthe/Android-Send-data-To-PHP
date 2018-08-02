@@ -10,4 +10,5 @@ useLibrary "org.apache.http.legacy"
 
 User Permission : -
 AndroidMainFest File
-  <uses-permission android:name="android.permission.INTERNET"/>
+
+<uses-permission android:name="android.permission.INTERNET"/>
