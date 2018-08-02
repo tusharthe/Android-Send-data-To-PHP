@@ -9,7 +9,7 @@ user Permission in AndroidManifest
 
 
 build.gradle (Module App) :- 
-under defaultConfig 
-useLibrary "org.apache.http.legacy"
+  under defaultConfig 
+    useLibrary "org.apache.http.legacy"
 
 
